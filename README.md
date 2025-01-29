@@ -2,7 +2,7 @@
 🚀 A smart AI-powered investment advisor that helps users find the best stocks based on their preferences.
 
 ## 🌟 Live Demo
-🔗 [Try It Here](https://YOUR-USERNAME.github.io/sampada-investment)
+🔗 [Try It Here](https://YOUR-USERNAME.github.io/sampada)
 
 ## 🎯 Features
 ✅ Personalized investment suggestions  
