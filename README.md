@@ -17,7 +17,7 @@
 ## 📸 Screenshots
 
 ### Investment Preferences
-![Investment Preferences](https://github.com/chandanashanmukha/Sampada/blob/main/WhatsApp%20Image%202025-01-29%20at%203.22.19%20PM.jpeg?raw=true)
+![Investment Preferences](https://github.com/chandanashanmukha/Sampada/blob/main/screenshot1.jpeg)
 
 ### Personalized Suggestions
 ![Personalized Suggestions](https://github.com/chandanashanmukha/Sampada/blob/main/WhatsApp%20Image%202025-01-29%20at%203.22.22%20PM.jpeg?raw=true)
