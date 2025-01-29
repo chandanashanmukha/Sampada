@@ -1,8 +1,8 @@
 # Sampada AI Investment Advisor 💰
 🚀 A smart AI-powered investment advisor that helps users find the best investment options based on their preferences.
 
-## 🌟 Live Demo
-🔗 [Try It Here](https://github.com/chandanashanmukha/Sampada)
+## 🌟 Launching Soon🚀
+🔗 [Try It Here](https://www.starsolu.com)
 
 ## 🎯 Features
 ✅ Personalized investment suggestions  
